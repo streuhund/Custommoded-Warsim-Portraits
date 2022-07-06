@@ -1,0 +1,20 @@
+-----------------------------------------------------------------------------
+	   BLACKMARKET RAT IDEA
+-----------------------------------------------------------------------------
+       ˏ-ˎ         ˏ-ˎ        
+      ˌ   \       /   ˌ   
+      \   ,˶'"'"'˵⹁   /  
+       `˵╱ˎ●‶ˏ_ˎ″●ˏ╲˶´ 
+       ⸌/ ˷⸂ ˛_¸ ⸃˷ \⸍   
+       𝆓\ˎ′⸜∵⸝┴⸜∵⸝‵ˏ/𝆒   
+      ,╱/´‶⸌-`⎺´-⸍″`\╲⹁ 
+     /|║°\         /°║|\     
+-----------------------------------------------------------------------------
+      Notes: UTF-8 Version     
+-----------------------------------------------------------------------------
+The only way I am able to use UTF-8 Faces in Warsim is by editing them into
+the save file and replacing the already existing face of a character. 
+I'm running the game on Windows Terminal Version: 1.13.11431.0 and using
+Noto Sans Mono font. Before I run the game I introduce the command'chcp 65001'
+in the terminal to change the codepage to UTF-8 so the game can read the face.
+-----------------------------------------------------------------------------
